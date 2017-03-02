@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d4d38ef022580ff4d9089fced48a8103
+timeCreated: 1481088423
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - droplet: {fileID: 1000011533375234, guid: 854c1eea5a07fd447ae0e74e235e34f4, type: 2}
+  - dropletSpear: {fileID: 1000011466180030, guid: ac3c73e0c1249414ebbf4a16afbc620b,
+      type: 2}
+  - waterBalloon: {fileID: 1000011555018308, guid: f9d4ead9a91f9e74580b08f2199becc2,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
